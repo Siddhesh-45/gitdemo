@@ -1,6 +1,6 @@
 import {
   createDocumentChunks,
-} from "@/models/DocumentChunk";
+} from "@/models/documentChunk";
 
 import { chunkText } from "./chunkText";
 
